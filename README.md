@@ -58,13 +58,13 @@ This project implements and evaluates multiple deep learning architectures varia
 
 ## How to Run
 
-1. Access the following **OneDrive** link to download the Dataset files and Model checkpoints:
-   [Dataset and Models](https://maastrichtuniversity-my.sharepoint.com/:f:/r/personal/h_ionescu_student_maastrichtuniversity_nl/Documents/Dataset%20and%20Models%20-%20Bachelor%20Thesis%20Horia%20Ionescu?csf=1&web=1&e=uUrLr0).
-    Structure of **OneDrive** folder :
+1. Access the following **Google Drive** link to download the Dataset files and Model checkpoints:
+   [Dataset and Models](https://drive.google.com/drive/folders/1v7aCJuNBhcFqmI3yGVbRx_EidV7j-9T6?usp=sharing).
+    Structure of **Google Drive** folder :
     - `Models` — Model checkpoints folder
     - `dataset_zipped.zip` — Dataset folder
-2. In the `Models` folder from **OneDrive**, take all model checkpoints and put them in the `checkpoints` folder from this project.
-3. Unzip the `dataset_zipped.zip` from OneDrive and put everything from it in the `data_figshare` folder from this project.
+2. In the `Models` folder from **Google Drive**, download and then take all model checkpoints and put them in the `checkpoints` folder from this project.
+3. Unzip the `dataset_zipped.zip` from **Google Drive** and put everything from it in the `data_figshare` folder from this project.
 4. At this point, you can run any notebook from the project.
 
 ## Author
